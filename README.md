@@ -10,4 +10,4 @@ About 7K images are in prediction set.
 </br>
 CNN consists of four convolution layers each having max pooling layer and Batch Normalization clubbed with it. 32 filters are used in first and second convolution layers and 64 filters in third and fourth layers. (2,2) max pooling is used in each convolutional layer. Three dense layers are followed by covolution layers.
 </br>
-This CNN provides more then **95% accuracy** on training set while 92% accuracy on test set. It predicted more than 90% images correctly in the prediction set.
+This CNN provides more then **95%_accuracy** on training set while 92% accuracy on test set. It predicted more than 90% images correctly in the prediction set.
